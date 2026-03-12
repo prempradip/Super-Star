@@ -1,0 +1,30 @@
+# Node.js
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Directory for instrumented lib/ folder
+lib-cov
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Dependency directories
+node_modules
+jspm_packages
+
+# Optional npm cache directory
+.npm
+
+# TypeScript v1 declaration files
+*.d.ts
+
+# Optional eslint cache
+.eslintcache
